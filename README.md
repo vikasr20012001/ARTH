@@ -1,6 +1,6 @@
 # ARTH AWS
 
-### ARTH-TASK-3 
+### ARTH-TASK-6
 ### TASK DESCRIPTION:
 ### 1.Create a key pair.
 ### 2.Create a security group.
